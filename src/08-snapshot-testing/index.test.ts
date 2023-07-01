@@ -15,4 +15,3 @@ describe('generateLinkedList', () => {
     expect(result).toMatchSnapshot();
   });
 });
-
